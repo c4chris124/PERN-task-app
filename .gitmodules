@@ -1,0 +1,3 @@
+[submodule "pern-stack-app"]
+	path = pern-stack-app
+	url = ./client
